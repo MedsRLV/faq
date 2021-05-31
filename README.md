@@ -9,3 +9,4 @@
 ## Niveau 3
 * [Comment faire un traitement par lot sur une sélection de notices ?](https://www.screencast.com/t/OjMOHMUwEbN "tuto bulletinage")<br/>
 ATTENTION : à utiliser avec modération et en étant sûr du changement fait sur tous les documents, <br/>j’insiste car on peut vite faire de grosse bêtises avec cet outil
+test
