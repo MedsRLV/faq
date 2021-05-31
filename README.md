@@ -5,7 +5,7 @@
 * [Comment trouver les nouveautés de ma bibliothèque sur le site ?](https://www.screencast.com/t/PiTkzc1g "tuto nouveautes")
 * [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")<br/>
 ## Niveau 2
-* [Comment bulletiner un périodique ?](https://www.screencast.com/t/jNiCxerx "tuto bulletinage")  <br/> Attention : contrairement à ce que je dis dans la fin du tuto vidéo, <br/>il est préférable d’utiliser des code-barres plutôt que des numéros.<br/>
+* [Comment bulletiner un périodique ?](https://www.screencast.com/t/jNiCxerx "tuto bulletinage")  <br/> ATTENTION : contrairement à ce que je dis dans la fin du tuto vidéo, <br/>il est préférable d’utiliser des code-barres plutôt que des numéros.<br/>
 ## Niveau 3
 * [Comment faire un traitement par lot sur une sélection de notices ?](https://www.screencast.com/t/OjMOHMUwEbN "tuto bulletinage")<br/>
 ATTENTION : à utiliser avec modération et en étant sûr du changement fait sur tous les documents, <br/>j’insiste car on peut vite faire de grosse bêtises avec cet outil
