@@ -1,4 +1,3 @@
-FAQ des médiathèques de Riom Limagne et Volcans
 ## Niveau 1
 * [Comment faire du prêt/retour si Orphée ne fonctionne plus ?](https://www.screencast.com/t/UsbxvP0DEYg "tuto pret secours")
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
