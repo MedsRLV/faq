@@ -6,6 +6,7 @@
 * [Comment utiliser les facettes lors d'une recherche sur le site et sur Orphée ?](https://www.screencast.com/t/fYxc6lI7V "tuto facettes")
 * [Comment consulter l'historique de prêts d'un lecteur sur le site et sur Orphée ?](https://www.screencast.com/t/vSU3EW8yvyiu "tuto historique")
 * [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")<br/>
+* [A quoi sert le menu "dans les rayons" sur le site ?](https://www.screencast.com/t/FAsELe9mDi "tuto dans les rayons")<br/>
 ## Niveau 2
 * [Comment bulletiner un périodique ?](https://www.screencast.com/t/jNiCxerx "tuto bulletinage")  <br/> ATTENTION : contrairement à ce que je dis dans la fin du tuto vidéo, <br/>il est préférable d’utiliser des code-barres plutôt que des numéros.<br/>
 ## Niveau 3
