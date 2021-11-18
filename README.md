@@ -1,5 +1,7 @@
 ## Niveau 1
 * [Comment faire du prêt/retour si Orphée ne fonctionne plus ?](https://www.screencast.com/t/UsbxvP0DEYg "tuto pret secours")
+* [Comment inscrire un adhérent ?] (https://www.screencast.com/t/k5b3it4m "tuto inscription adherent")
+* [Comment inscrire une collectivité ?] (https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription collectivite")
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
 * [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/l94McvgKygP "tuto perte carte")
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
