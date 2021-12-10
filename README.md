@@ -3,7 +3,7 @@
 * [Comment faire pour inscrire un adhérent ?](https://www.screencast.com/t/k5b3it4m "tuto inscription adh")
 * [Comment faire pour inscrire une collectivité ?](https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription coll")
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
-* [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/l94McvgKygP "tuto perte carte")
+* [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/kDA0xsrf "tuto perte carte")
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
 * [Comment changer l'adresse du raccourci Orphée ?](https://www.screencast.com/t/Uu9hcQpo "tuto raccourci")
 * [Comment trouver les nouveautés de ma bibliothèque sur le site ?](https://www.screencast.com/t/PiTkzc1g "tuto nouveautes")
