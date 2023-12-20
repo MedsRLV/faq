@@ -1,6 +1,9 @@
 ## Niveau 1
 * [Comment faire du prêt/retour si Orphée ne fonctionne plus ?](https://www.screencast.com/t/UsbxvP0DEYg "tuto pret secours")
-* [Comment faire une réservation et comment la supprimer ?](https://app.screencast.com/OQtJMJs68LBCW "tuto resa")
+* [Comment faire une réservation sur Orphée et comment la supprimer ?](https://app.screencast.com/OQtJMJs68LBCW "tuto resa")
+* [Comment faire une réservation sur le portail ?](https://app.screencast.com/oIjDdEtRkdC8Y "tuto resa portail")
+* [Aller chercher les réservations en rayon](https://app.screencast.com/Dcy7MELBx9mwc "tuto resa rayon")
+* [Les retours documents d'autres bibliothèques](https://app.screencast.com/0V1atsB3hGWrW "tuto retours docs autres bibs")
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire pour inscrire un adhérent ?](https://www.screencast.com/t/k5b3it4m "tuto inscription adh")
 * [Comment faire pour inscrire une collectivité ?](https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription coll")
