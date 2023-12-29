@@ -13,6 +13,8 @@
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
 * [Comment changer l'adresse du raccourci Orphée ?](https://www.screencast.com/t/Uu9hcQpo "tuto raccourci")
+* [Comment faire une petite bibliographie papier ?](https://app.screencast.com/xOiZbndSxtqMd "tuto bibliographie")
+
   *-------------------------------------------------------------------------------------------------------*
 * [Comment trouver les nouveautés de ma bibliothèque sur le site ?](https://www.screencast.com/t/PiTkzc1g "tuto nouveautes")
 * [Comment utiliser les facettes lors d'une recherche sur le site et sur Orphée ?](https://www.screencast.com/t/fYxc6lI7V "tuto facettes")
