@@ -9,7 +9,9 @@
 * [Comment faire pour inscrire une collectivité ?](https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription coll")
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
 * [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/kDA0xsrf "tuto perte carte")
-* [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")<br/>
+* [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")
+* [Comment vérifier les mails envoyés à un lecteur ?](https://app.screencast.com/D7U48nQIBEJ83) "tuto courriel")
+* <br/>
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
 * [Comment changer l'adresse du raccourci Orphée ?](https://www.screencast.com/t/Uu9hcQpo "tuto raccourci")
