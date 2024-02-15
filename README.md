@@ -10,13 +10,11 @@
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
 * [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/kDA0xsrf "tuto perte carte")
 * [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")
-* [Comment vérifier les mails envoyés à un lecteur ?](https://app.screencast.com/D7U48nQIBEJ83) "tuto courriel")
-* <br/>
+* [Comment vérifier les mails envoyés à un lecteur ?](https://www.screencast.com/t/D7U48nQIBEJ83 "tuto courriel")
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
 * [Comment changer l'adresse du raccourci Orphée ?](https://www.screencast.com/t/Uu9hcQpo "tuto raccourci")
 * [Comment faire une petite bibliographie papier ?](https://app.screencast.com/xOiZbndSxtqMd "tuto bibliographie")
-
   *-------------------------------------------------------------------------------------------------------*
 * [Comment trouver les nouveautés de ma bibliothèque sur le site ?](https://www.screencast.com/t/PiTkzc1g "tuto nouveautes")
 * [Comment utiliser les facettes lors d'une recherche sur le site et sur Orphée ?](https://www.screencast.com/t/fYxc6lI7V "tuto facettes")
