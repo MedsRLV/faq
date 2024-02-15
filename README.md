@@ -10,7 +10,7 @@
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
 * [Comment faire si un lecteur a perdu sa carte ?](https://www.screencast.com/t/kDA0xsrf "tuto perte carte")
 * [Comment créer un regroupement / famille dans Orphée ?](https://www.screencast.com/t/V081DdJbcvfz "tuto regroupement")
-* [Comment vérifier les mails envoyés à un lecteur ?](https://www.screencast.com/t/D7U48nQIBEJ83 "tuto courriel")
+* [Comment vérifier les mails envoyés à un lecteur ?](https://www.screencast.com/D7U48nQIBEJ83 "tuto courriel")
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire un coup de coeur ?](https://www.screencast.com/t/LMO0LQ8l3H "tuto cdc")
 * [Comment changer l'adresse du raccourci Orphée ?](https://www.screencast.com/t/Uu9hcQpo "tuto raccourci")
