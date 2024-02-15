@@ -4,6 +4,7 @@
 * [Comment faire une réservation sur le portail ?](https://app.screencast.com/oIjDdEtRkdC8Y "tuto resa portail")
 * [Aller chercher les réservations en rayon](https://app.screencast.com/Dcy7MELBx9mwc "tuto resa rayon")
 * [Les retours documents d'autres bibliothèques](https://app.screencast.com/0V1atsB3hGWrW "tuto retours docs autres bibs")
+* [Les réservations supprimées (car personne n'est venu les chercher)](https://app.screencast.com/oHQdxcJ5Mf4ew "tuto resas supprimees")
   *-------------------------------------------------------------------------------------------------------*
 * [Comment faire pour inscrire un adhérent ?](https://www.screencast.com/t/k5b3it4m "tuto inscription adh")
 * [Comment faire pour inscrire une collectivité ?](https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription coll")
