@@ -5,8 +5,9 @@
 * [Aller chercher les réservations en rayon](https://app.screencast.com/Dcy7MELBx9mwc "tuto resa rayon")
 * [Les retours documents d'autres bibliothèques](https://app.screencast.com/0V1atsB3hGWrW "tuto retours docs autres bibs")
 * [Les réservations supprimées (car personne n'est venu les chercher)](https://app.screencast.com/oHQdxcJ5Mf4ew "tuto resas supprimees")
-* [Comment cataloguer un roman ?](https://docs.google.com/spreadsheets/d/1nx3gwnpAcB9OIk_E7U76YwENIOQyflwk/edit?gid=1883418014#gid=1883418014) 
-  *-------------------------------------------------------------------------------------------------------*
+* [Comment cataloguer un roman ?](https://docs.google.com/spreadsheets/d/1nx3gwnpAcB9OIk_E7U76YwENIOQyflwk/edit?gid=1883418014#gid=1883418014 "tuto catalogage")
+  
+    *-------------------------------------------------------------------------------------------------------*
 * [Comment faire pour inscrire un adhérent ?](https://www.screencast.com/t/k5b3it4m "tuto inscription adh")
 * [Comment faire pour inscrire une collectivité ?](https://www.screencast.com/t/LYa0Mwql9bl "tuto inscription coll")
 * [Astuce pour écrire l'adresse postale des adhérents lors de l'inscription](https://www.screencast.com/t/jn45Nuh8uT "tuto fantoir")
